@@ -16,7 +16,7 @@ En este proyecto, evaluaremos la funcionalidad de un sensor de ultrasonido con A
 El proyecto, basado en Arduino Uno, integra LEDs verdes, amarillos y rojos, y un zumbador. Los LEDs verdes permanecen encendidos sin detección de objetos. Cuando un objeto se acerca al sensor, los LEDs amarillos se encienden y los verdes se apagan. Si el objeto está demasiado cerca, los LEDs amarillos se apagan y los rojos se encienden, acompañados de una alarma audible.
 
 ## Repositorio en GitHub:
-El repositorio del proyecto en GitHub ofrece una visión general de sus objetivos y funcionalidad. Además, se ha incluido una guía paso a paso para ensamblar el prototipo en la sección de "IMÁGENES", proporcionando ayuda visual para los usuarios. Además, el código de Arduino necesario se ha proporcionado en la sección de "CÓDIGO" para un acceso conveniente.
+El repositorio del proyecto en GitHub ofrece una visión general de sus objetivos y funcionalidad. 
 
 ## Instrucciones de Montaje del Circuito:
 A continuación se muestran los pasos para armar el circuito:
